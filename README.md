@@ -1,6 +1,8 @@
 
 # Seoul-Bike-Sharing-Demand-Prediction
 
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fthinkingneuron.com%2Fbike-rental-demand-prediction-case-study-in-python%2F&psig=AOvVaw1y1EMT0Wpn0NGLJ9b7AM30&ust=1649685451684000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKC1vbLTifcCFQAAAAAdAAAAABAU
+
 ## Problem Statement
 
 Currently Rental bikes are introduced in many urban cities for the enhancement of mobility comfort. It is important to make the rental bike available and accessible to the public at the right time as it lessens the waiting time. Eventually, providing the city with a stable supply of rental bikes becomes a major concern. The crucial part is the prediction of bike count required at each hour for the stable supply of rental bikes.
